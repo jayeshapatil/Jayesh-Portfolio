@@ -19,3 +19,8 @@ I invite recruiters and organizations to explore these projects and reach out to
 9. Formatting Data: Format data for improved readability and consistency.
 10. Loading the Cleaned Data: Load the cleaned data for analysis in Power BI.
 
+Here are some contact references :
+
+1) linkedIN: https://www.linkedin.com/in/jayeshpatilprofile
+2) Twitter: https://twitter.com/red_dot_jayesh?s=21
+
