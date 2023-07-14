@@ -6,7 +6,7 @@ In my journey as a Power BI practitioner, I have had the opportunity to work on 
 
 Please find below list of project :
 
-1) HR Dashboard
+1) HR_Dashboard_1.pdf
 2) 
 
 Through these projects, I have honed my skills in transforming complex datasets into actionable insights. In this github profile, I will showcase a few of my most impactful Power BI projects and outline the key learnings that I gained along the way. 
