@@ -6,10 +6,16 @@ In my journey as a Power BI practitioner, I have had the opportunity to work on 
 
 I invite recruiters and organizations to explore these projects and reach out to discuss how I can contribute to their data-driven initiatives.
 
-📌 Learning from project:
+📌 Learned data extraction/data tranformation skills from project:
 
-1) Data cleaning is done in power query like use filters, add new columns with proper format of complex calculated data
-2) Created connections between two table, joined new table and calculations done to manipulate data, used DAX formulas to create new columns and added new measure 
-3) Created interactive dashboard in PowerBI and share to client 
-4) Used different types of customisable visualisation like (bar charts, donut chart, pie chart, line chart, maps, slicers, cards, etc)
-5) Used different shapes and colour codes to enhance visualisation 
+1. Importing Data: Connect to various sources to import data for analysis.
+2. Removing Unnecessary Columns: Eliminate irrelevant columns from the dataset.
+3. Handling Missing Values: Fill or remove rows with missing values.
+4. Dealing with Duplicates: Identify and manage duplicate rows or records.
+5. Correcting Data Types: Ensure appropriate data types for accurate analysis.
+6. Filtering and Sorting: Apply filters and sort data for specific criteria.
+7. Transforming Data: Perform necessary data transformations for analysis requirements.
+8. Renaming Columns: Give columns more meaningful and descriptive names.
+9. Formatting Data: Format data for improved readability and consistency.
+10. Loading the Cleaned Data: Load the cleaned data for analysis in Power BI.
+
