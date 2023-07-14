@@ -2,7 +2,9 @@
 
 Hello Reader, 
 
-In my journey as a Power BI practitioner, I have had the opportunity to work on diverse projects that harness the power of data visualization and analysis. Through these projects, I have honed my skills in transforming complex datasets into actionable insights. In this github profile, I will showcase a few of my most impactful Power BI projects and outline the key learnings that I gained along the way. 
+In my journey as a Power BI practitioner, I have had the opportunity to work on diverse projects that harness the power of data visualization and analysis. 
+
+Through these projects, I have honed my skills in transforming complex datasets into actionable insights. In this github profile, I will showcase a few of my most impactful Power BI projects and outline the key learnings that I gained along the way. 
 
 I invite recruiters and organizations to explore these projects and reach out to discuss how I can contribute to their data-driven initiatives.
 
