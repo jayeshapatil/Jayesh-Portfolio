@@ -4,16 +4,16 @@ Hello Reader,
 
 In my journey as a Power BI practitioner, I have had the opportunity to work on diverse projects that harness the power of data visualization and analysis. 
 
-Please find below list of project :
+Please find below a list of projects:
 
 1) <a href="https://github.com/jayeshapatil/Jayesh-Portfolio/blob/main/HR_Dashboard_1.pdf"> HR_Dashboard</a>
 2) <a href="https://github.com/jayeshapatil/Jayesh-Portfolio/blob/main/Madhav_Ecommerce_Sales_Dashboard%20(1).pdf"> Madhav Ecommerce Sales Dashboard</a> 
 
-Through these projects, I have honed my skills in transforming complex datasets into actionable insights. In this github profile, I will showcase a few of my most impactful Power BI projects and outline the key learnings that I gained along the way. 
+Through these projects, I have honed my skills in transforming complex datasets into actionable insights. In this GitHub profile, I will showcase a few of my most impactful Power BI projects and outline the key learnings I gained. 
 
 I invite recruiters and organizations to explore these projects and reach out to discuss how I can contribute to their data-driven initiatives.
 
-📌 Learned data extraction/data tranformation skills from project:
+📌 Learned data extraction/data transformation skills from the project:
 
 1. Importing Data: Connect to various sources to import data for analysis.
 2. Removing Unnecessary Columns: Eliminate irrelevant columns from the dataset.
@@ -28,6 +28,6 @@ I invite recruiters and organizations to explore these projects and reach out to
 
 Here are some contact references :
 
-1) linkedIN: https://www.linkedin.com/in/jayeshpatilprofile
+1) Linkedin: https://www.linkedin.com/in/jayeshpatilprofile
 2) Twitter: https://twitter.com/red_dot_jayesh?s=21
 
